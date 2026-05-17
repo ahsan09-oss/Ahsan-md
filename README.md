@@ -30,7 +30,7 @@ All commands and the overall structure are written to make easy to install new P
 1. Fork the Repository
 
 <div align="center">
-  <a href="https://github.com/proboy315/Ali-MD/fork" target="_blank">
+  <a href="https://github.com/ALI-XMD/Ali-MD/fork" target="_blank">
     <img src="https://img.shields.io/badge/Fork%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork on GitHub">
   </a>
 </div>
@@ -40,7 +40,7 @@ All commands and the overall structure are written to make easy to install new P
    
 <div align="center">
 
-<a href="https://ProBoy-PAIR.onrender.com/" target="_blank">
+<a href="https://alixmd.42web.io/" target="_blank">
   <img src="https://img.shields.io/badge/Generate-Pair%20Code-blueviolet?style=for-the-badge" alt="Generate Pair Code">
 </a>
 
@@ -326,9 +326,8 @@ module.exports = {
   timezone: 'Asia/Karachi',
   maxWarnings: 3,
   social: {
-    github: 'https://github.com/proboy315',
-    instagram: 'https://instagram.com/itx___proboy',
-    Tiktok: 'https://tiktok.com/@itx_ProBoy'
+    github: 'https://github.com/ALI-XMD',
+    
   }
 };
 
