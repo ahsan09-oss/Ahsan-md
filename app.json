@@ -1,0 +1,19 @@
+{
+  "name": "Ali-MD",
+  "description": "WhatsApp MD bot (Baileys)",
+  "repository": "https://github.com/ALI-XMD/ALI-MD",
+  "keywords": ["whatsapp", "baileys", "bot", "node"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "env": {
+    "SESSION_ID": {
+      "description": "Ali-MD session string (e.g. Ali-MD!<base64_compressed_data>)",
+      "required": true,
+      "value": ""
+    }
+  }
+}
+
