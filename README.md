@@ -99,7 +99,7 @@ For a full step‑by‑step deployment tutorial (panels / VPS / Heroku), add or 
 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/proboy315/Ali-MD.git
+git clone https://github.com/ALI-XMD/Ali-MD.git
 cd Ali-MD
 ```
 
