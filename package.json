@@ -1,5 +1,5 @@
 {
-  "name": "Ali-MD",
+  "name": "Ahsan",
   "version": "1.0.0",
   "description": "WhatsApp MD Bot with Baileys",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "ALI",
+  "author": "Ahsan",
   "license": "MIT",
   "dependencies": {
      "@vitalets/google-translate-api": "^9.2.1",
